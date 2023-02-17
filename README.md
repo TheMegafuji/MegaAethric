@@ -11,7 +11,19 @@ git clone https://github.com/GGarciaDev/MegaAethric.git
 ```
 
 ## Running the bot
+
 Open assets/bundle.html in a browser of your choice or download the latest apk from the releases.
+
+## Building for Android
+
+You need to download [ApkTool](https://github.com/iBotPeaches/Apktool)
+1. Copy the content of assets folder inside Aethric
+2. Execute the following command:
+```
+apktool b ./Aethric
+```
+3. The APK will be under Aethric/dist, its unsigned, you need to sign using a a key
+
 
 ## Hacks available
 
