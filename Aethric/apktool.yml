@@ -1,0 +1,110 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Aethric.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.annotation_annotation-experimental.version
+- META-INF/androidx.appcompat_appcompat-resources.version
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.cardview_cardview.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.drawerlayout_drawerlayout.version
+- META-INF/androidx.dynamicanimation_dynamicanimation.version
+- META-INF/androidx.emoji2_emoji2-views-helper.version
+- META-INF/androidx.emoji2_emoji2.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.legacy_legacy-support-core-ui.version
+- META-INF/androidx.legacy_legacy-support-core-utils.version
+- META-INF/androidx.legacy_legacy-support-v4.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-process.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+- META-INF/androidx.media_media.version
+- META-INF/androidx.print_print.version
+- META-INF/androidx.recyclerview_recyclerview.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.startup_startup-runtime.version
+- META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.tracing_tracing.version
+- META-INF/androidx.transition_transition.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager2_viewpager2.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/com.google.android.material_material.version
+- mp3
+- png
+- jpg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '31'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  billing.properties: '8'
+  core.properties: '8'
+  firebase-analytics.properties: '8'
+  firebase-annotations.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-crashlytics.properties: '8'
+  firebase-datatransport.properties: '8'
+  firebase-encoders-json.properties: '8'
+  firebase-encoders-proto.properties: '8'
+  firebase-encoders.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-installations-interop.properties: '8'
+  firebase-installations.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  firebase-messaging.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-auth-api-phone.properties: '8'
+  play-services-auth-base.properties: '8'
+  play-services-auth.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-cloud-messaging.properties: '8'
+  play-services-drive.properties: '8'
+  play-services-games.properties: '8'
+  play-services-identity.properties: '8'
+  play-services-maps.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  play-services-wallet.properties: '8'
+  transport-api.properties: '8'
+  transport-backend-cct.properties: '8'
+  transport-runtime.properties: '8'
+  stamp-cert-sha256: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.1
+versionInfo:
+  versionCode: '10109'
+  versionName: 1.1.7

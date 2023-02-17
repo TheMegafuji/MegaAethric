@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="material_ic_keyboard_arrow_next_black_24dp">@drawable/material_ic_keyboard_arrow_right_black_24dp</item>
+    <item type="drawable" name="material_ic_keyboard_arrow_previous_black_24dp">@drawable/material_ic_keyboard_arrow_left_black_24dp</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="APKTOOL_DUMMY_c" />
+    <item type="drawable" name="APKTOOL_DUMMY_d" />
+    <item type="drawable" name="APKTOOL_DUMMY_12" />
+    <item type="drawable" name="APKTOOL_DUMMY_13" />
+    <item type="drawable" name="APKTOOL_DUMMY_18" />
+    <item type="drawable" name="APKTOOL_DUMMY_38" />
+    <item type="drawable" name="APKTOOL_DUMMY_3c" />
+    <item type="drawable" name="APKTOOL_DUMMY_3d" />
+    <item type="drawable" name="APKTOOL_DUMMY_3e" />
+    <item type="drawable" name="APKTOOL_DUMMY_3f" />
+    <item type="drawable" name="APKTOOL_DUMMY_40" />
+    <item type="drawable" name="APKTOOL_DUMMY_44" />
+    <item type="drawable" name="APKTOOL_DUMMY_4b" />
+    <item type="drawable" name="APKTOOL_DUMMY_4d" />
+    <item type="drawable" name="APKTOOL_DUMMY_4e" />
+    <item type="drawable" name="APKTOOL_DUMMY_4f" />
+    <item type="drawable" name="APKTOOL_DUMMY_60" />
+    <item type="drawable" name="APKTOOL_DUMMY_64" />
+    <item type="drawable" name="APKTOOL_DUMMY_69" />
+    <item type="drawable" name="APKTOOL_DUMMY_6d" />
+    <item type="drawable" name="APKTOOL_DUMMY_72" />
+    <item type="drawable" name="APKTOOL_DUMMY_78" />
+    <item type="drawable" name="APKTOOL_DUMMY_79" />
+    <item type="drawable" name="APKTOOL_DUMMY_85" />
+    <item type="drawable" name="APKTOOL_DUMMY_a6" />
+    <item type="drawable" name="APKTOOL_DUMMY_a7" />
+    <item type="drawable" name="APKTOOL_DUMMY_a8" />
+    <item type="drawable" name="APKTOOL_DUMMY_a9" />
+    <item type="drawable" name="APKTOOL_DUMMY_ae" />
+</resources>
