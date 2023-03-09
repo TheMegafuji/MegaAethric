@@ -23,6 +23,12 @@ You need to download [ApkTool](https://github.com/iBotPeaches/Apktool)
 apktool b ./Aethric
 ```
 3. The APK will be under Aethric/dist, its unsigned, you need to sign using a a key
+4. If unaligned an error will occur, you can use `zipalign -f -p 4 app.apk`
+5. For signing the app, there is a keystore here, the alias is `mega` and the password is `aethric`, execute both signatures:
+```
+jarsigner -keystore aethric.keystore -verbose app.apk mega
+apksigner sign --ks .\aethric.keystore app.apk
+```
 
 
 ## Hacks available
