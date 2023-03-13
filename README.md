@@ -72,3 +72,7 @@ apktool b ./Aethric
 jarsigner -keystore aethric.keystore -verbose app.apk mega
 apksigner sign --ks .\aethric.keystore app.apk
 ```
+
+# Donations
+For now there is only a BSC Chain address, if you enjoyed the repository and would like to contribute, feel free:
+`0xe9898CD000cd8A805719398F67bf2bBDC75E128B`
