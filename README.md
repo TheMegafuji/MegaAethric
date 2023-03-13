@@ -46,6 +46,14 @@ git clone https://github.com/GGarciaDev/MegaAethric.git
 ## In PC:
 Open assets/bundle.html in a browser of your choice or download the latest apk from the releases. Please note that its recommended to mock User-Agent in order to be more undetectable.
 
+Get a random User-Agent from [here](https://user-agents.net/devices/mobiles)
+
+You can do a custom shortcut using the suggested following arguments in chrome based browser:
+`--app="PATH_TO_BUNDLE_HTML"` - This will make the browser start in APP mode, basically make the application without top bar, change to the bundle.html path
+`--window-size=W,H` - Custom window size (note this doesnt affect logged dimensions to the game server), change W and H to desired.
+`--profile-directory="Profile X"` - Automatically starts in a custom Profile, its great for running multiple accounts, change X to desired Profile (use chrome://version/ to check your current one)
+`--user-agent="USER_AGENT` - Use custom a User-Agent, making all requests appear as mobile device
+
 ## In Android:
 You can download the latest APK available in the [release section](https://github.com/TheMegafuji/MegaAethric/releases/)
 
