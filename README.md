@@ -22,7 +22,8 @@
 6. Auto Heal, will use auto heal if health or mana is below 90%
 7. Auto Walk, enables walking from the last clicked position, once enabled there will be a configurable option for your liking.
 8. Party battle, if allowed, will ALWAYS prefer battle alongside friends or ONLY battle with friends, this is great for adding more monsters in boss battle, like Tower Guardian, in order to collect Olympia Keys
-9. Codex Hack, when in codex, there is a option to add monster to list, this will be highlighted in the panels and focused on battles
+9. Codex Hack, when in codex, there is a option to add monster to list, this will be highlighted in the panels and focused on battles, you can also blacklist mobs this way.
+10. Autobuy good itens in bazar (Sudun/Myrkheim)
 
 ### **Filters and Misc**
 1. All NPCs, Collectables, Raid Bosses, Codex selected mobs and Memories will appear as a option for you to click in the left side of the screen (as shown in the screenshot)
