@@ -32,6 +32,8 @@
 
 # Getting started
 
+> **This release will only work in English language, since in some functions it actually goes for the text in screen, in order to be less detectable.**
+
 In order to run the bot you will require:
 * [GIT](https://git-scm.com/downloads)
 
