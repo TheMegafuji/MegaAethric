@@ -41,7 +41,7 @@ You can clone this repository to a folder using GIT:
 1. Open a terminal inside the folder you want to clone
 2. Execute the following command:
 ```
-git clone https://github.com/GGarciaDev/MegaAethric.git
+git clone https://github.com/TheMegafuji/MegaAethric.git
 ```
 
 # Running
