@@ -1,5 +1,5 @@
 # Show off
-<img src="https://user-images.githubusercontent.com/2281415/224169809-21c99965-3879-4457-a47f-4a0ec1a027d1.jpeg" width="20%" height="20%"> <img src="https://user-images.githubusercontent.com/2281415/224169812-e5add325-23f1-4804-9e67-0130662668a6.jpeg" width="20%" height="20%"> <img src="https://user-images.githubusercontent.com/2281415/224169814-1f4f6529-69b7-4ea6-a354-491f8ac539a6.jpeg" width="20%" height="20%"> <img src="https://user-images.githubusercontent.com/2281415/224169804-d4f36613-4613-4841-94c1-d4b765ad2ce7.jpeg" width="20%" height="20%">
+This code is maintained as a showcase, as it does not intent to infringe any intellectual property of the devs, this is purely for demonstrations purpose as a non profitable fan work.
 
 ### **Hacks:**
 1. Teleport to cities and towers
@@ -32,7 +32,7 @@
 
 # Getting started
 
-> **This release will only work in English language, since in some functions it actually goes for the text in screen, in order to be less detectable.**
+As of June 2023, if you want to run it yourself, you need to decompile the APK and update the code based on what is shown on app.js with comments.
 
 In order to run the bot you will require:
 * [GIT](https://git-scm.com/downloads)
@@ -41,7 +41,7 @@ You can clone this repository to a folder using GIT:
 1. Open a terminal inside the folder you want to clone
 2. Execute the following command:
 ```
-git clone https://github.com/TheMegafuji/MegaAethric.git
+git clone https://github.com/GGarciaDev/MegaAethric.git
 ```
 
 # Running
@@ -75,7 +75,3 @@ apktool b ./Aethric
 jarsigner -keystore aethric.keystore -verbose app.apk mega
 apksigner sign --ks .\aethric.keystore app.apk
 ```
-
-# Donations
-For now there is only a BSC Chain address, if you enjoyed the repository and would like to contribute, feel free:
-`0xe9898CD000cd8A805719398F67bf2bBDC75E128B`
